@@ -14,7 +14,7 @@
 - **Smart Traffic Light** [ [backend](https://github.com/naveennvrgup/smart-traffic-light) | [frontend](https://github.com/ShristiAgrawal/Smart_traffic_light) ] - Built for College semester project. A solution to avoid ambulance getting stuck in traffic. A combination of IoT cluster + django server + android app + GCP platform.
 - **Teesco** [ [backend](https://github.com/naveennvrgup/teesco-backend/tree/dev) | [web client](https://github.com/naveennvrgup/teesco-website) | [mobile client](https://github.com/naveennvrgup/teesco-app) ] - An open source initiative to create a Volunteer Management System by E-Cell NIT Raipur where I am one of lead members of tech team.
 - **E-Cell NIT Raipur** [ [repo](https://github.com/ECellNitrr/EcellWeb2k19) ] - Club site of E-Cell NIT Raipur where I play the role of "Head Co-ordinator Tech Team". 
-- **Zen Portfolio Site & Dashboard** [ [repo](https://github.com/naveennvrgup/zen-ca-mail) ] - This website is a combination of custom porfolio site and admin site for freelance client (since decomissioned after two years of use in production).
+- **Zen Portfolio Site & Dashboard** [ [repo](https://github.com/naveennvrgup/zen-ca-mail) ] - This website is a combination of custom portfolio  site and admin site for freelance client (decommissioned after two years of use in production).
 - **Startup portfolio Site** [ [repo](https://github.com/naveennvrgup/zenithec) ] - Portfolio site of Zenithec Techware. A startup based on NIT Raipur.
 - **FreeCodeCamp** [ [repo](https://github.com/naveennvrgup/free-code-camp) ] - A cluster of mini projects to FCC certification and practice.
 
