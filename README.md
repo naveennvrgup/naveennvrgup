@@ -31,6 +31,7 @@
 
 ### My Certificates
 - Coursera - [Google Cloud Platform Fundamentals: Core Infrastructure](https://coursera.org/share/2c3cfd75490bc49c1c63e3d6ca2db30b)
+- FreeCodeCamp - [Scientific Computing with Python](https://www.freecodecamp.org/certification/fcc4875e22d-b42b-4889-ba8c-cfa9860187ac/scientific-computing-with-python-v7)
 - FreeCodeCamp - [Responsive Web Design](https://www.freecodecamp.org/certification/fcc4875e22d-b42b-4889-ba8c-cfa9860187ac/responsive-web-design)
 - FreeCodeCamp - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc4875e22d-b42b-4889-ba8c-cfa9860187ac/javascript-algorithms-and-data-structures)
 - FreeCodeCamp - [Front End Libraries](https://www.freecodecamp.org/certification/fcc4875e22d-b42b-4889-ba8c-cfa9860187ac/front-end-libraries)
