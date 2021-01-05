@@ -2,6 +2,7 @@
 
 - 📁 My resume can be found here [Click me 🖱](https://docs.google.com/document/d/13jLJZmVaOoLgF61zIrtF7Yj1wDwP8RN9tVCR8It8bDU/edit?usp=sharing)
 - 🎓 Final year student at National Institute of Technology, Raipur pursing B.Tech CSE
+- 💯 My current CGPA is 8.42 out of 10.0 as of 7th semester.
 - 💻 Full Stack Engineer (mostly in Django, react.js & MERN)
 - 🏆 Winner of Smart India Hackathon 2020
 - 🏆 Winner of Codeutsava 4.0 (a NIT Raipur Hackathon)
