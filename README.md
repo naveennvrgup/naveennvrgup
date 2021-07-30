@@ -1,12 +1,12 @@
 # Hello mate let me introduce myself! [Resume | CV here 📁](https://docs.google.com/document/d/13jLJZmVaOoLgF61zIrtF7Yj1wDwP8RN9tVCR8It8bDU/edit?usp=sharing)
 
 - 📁 My resume can be found here [Click me 🖱](https://docs.google.com/document/d/13jLJZmVaOoLgF61zIrtF7Yj1wDwP8RN9tVCR8It8bDU/edit?usp=sharing)
-- 🎓 Final year student at National Institute of Technology, Raipur pursing B.Tech CSE
-- 💯 My current CGPA is 8.42 out of 10.0 as of 7th semester.
-- 💻 Full Stack Engineer (mostly in Django, react.js & MERN)
+- 👨‍💻 Work at Amazon #FAANG.
+- 🎓 B.Tech CSE'21 graduate from National Institute of Technology, Raipur.
+- 💯 My CGPA is 8.54 out of 10.0.
+- 💻 Full Stack Engineer.
 - 🏆 Winner of Smart India Hackathon 2020
 - 🏆 Winner of Codeutsava 4.0 (a NIT Raipur Hackathon)
-- 🍧 Open Source Enthusiast (Jenkins CI, AnitaB and others)  
 
 
 ### Here is a list of my work and pet projects:
